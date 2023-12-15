@@ -12,33 +12,33 @@ System Description:
 The loan assistance app consists of the following main components:
 
 Login Page:
-
 Customers must enter their credentials (username and password) to access the app's features securely.
+
 Loan Types:
-
 Four types of loans are offered: home loan, car loan, education loan, and personal loan. Each loan type has specific eligibility criteria and interest rates.
+
 Savings Calculation:
-
 Customers can calculate their savings by providing financial details such as income, expenses, and existing loans. The app performs calculations and provides an estimate of the customer's savings.
-Loan Application:
 
+Loan Application:
 Customers can apply for loans through the app. The application process is guided, ensuring all required information is provided. Applications are securely stored in the database for further processing.
+
 Use Case Model:
 The use case model includes the following actors:
 
 Bank Staff:
-
 Authorized personnel can access loan applications submitted by customers for review and approval.
-Customer:
 
+Customer:
 The primary user can log in, calculate savings, and apply for loans.
+
 Software Requirements Specification
 Python:
 Tkinter is a Python library, so Python must be installed on the computer.
 Python is a free and open-source programming language available for Windows, macOS, and Linux.
 Getting Started
-To run the loan assistance app locally, follow these steps:
 
+To run the loan assistance app locally, follow these steps:
 Clone the repository to your local machine.
 Ensure Python is installed.
 Navigate to the project directory and run the main application file.
